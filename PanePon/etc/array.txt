@@ -1,0 +1,55 @@
+#include <array>
+
+1次元配列
+std::array<CBlock,10> Block
+
+	//standard 配列 CBlock型 10個の連続 名前-> Block
+
+
+2次元配列
+              y          x
+std::array<CBlock,12><CBlock,6> Block
+
+
+for(auto it= Block.begin(), it-> Block.end() it++)
+{
+
+
+}
+
+<型 名前>
+int a[4][2] = {
+	{1,2},
+	{3,4},
+	{5,6},
+	{7,8}
+};
+
+
+//**************///
+
+pattern1
+
+array<CBlock,72> Block
+
+Block	{
+		x
+		y
+		kind
+		flag
+	}
+
+pattern2
+
+array<CBlock,12><CBlock,6> Block
+
+
+
+pattern3
+
+array<CBlock,?> Block[12][6]
+
+
+
+
+

@@ -1,0 +1,61 @@
+﻿  Choices.cpp
+  DisposableSound.cpp
+extra\DisposableSound.cpp(1): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  DxAnimation.cpp
+c:\users\twdsa\desktop\panepon\extra\DxGraphic.h(2): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  DxGraphic.cpp
+c:\users\twdsa\desktop\panepon\extra\DxGraphic.h(2): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  DxJoyPad.cpp
+extra\DxJoyPad.cpp(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  DxKeyBoard.cpp
+extra\DxKeyBoard.cpp(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  DxSound.cpp
+c:\users\twdsa\desktop\panepon\extra\DxSound.h(2): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  Achievement.cpp
+c:\users\twdsa\desktop\panepon\src\BaseScene.h(5): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  BaseObject.cpp
+  BaseScene.cpp
+c:\users\twdsa\desktop\panepon\src\BaseScene.h(5): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  Block.cpp
+c:\users\twdsa\desktop\panepon\src\Block.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  BlockMgr.cpp
+c:\users\twdsa\desktop\panepon\src\BlockMgr.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  board.cpp
+c:\users\twdsa\desktop\panepon\src\board.h(4): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  Combo.cpp
+  Config.cpp
+c:\users\twdsa\desktop\panepon\src\BaseScene.h(5): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  Controller.cpp
+c:\users\twdsa\desktop\panepon\src\Cursor.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  Cursor.cpp
+c:\users\twdsa\desktop\panepon\src\Cursor.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  Delete.cpp
+c:\users\twdsa\desktop\panepon\src\Cursor.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  DeleteDecide.cpp
+c:\users\twdsa\desktop\panepon\src\Cursor.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  Effect.cpp
+c:\users\twdsa\desktop\panepon\src\Effect.h(4): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  コンパイル中...
+  Game.cpp
+c:\users\twdsa\desktop\panepon\src\BaseScene.h(5): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  ISceneChanger.cpp
+  key.cpp
+c:\users\twdsa\desktop\panepon\src\key.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  main.cpp
+src\main.cpp(1): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  Genre.cpp
+c:\users\twdsa\desktop\panepon\src\BaseScene.h(5): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  Move.cpp
+c:\users\twdsa\desktop\panepon\src\Move.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  Rule.cpp
+c:\users\twdsa\desktop\panepon\src\TimeKeeper.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  SceneMgr.cpp
+c:\users\twdsa\desktop\panepon\src\BaseScene.h(5): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  Search.cpp
+c:\users\twdsa\desktop\panepon\src\Search.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  Start.cpp
+c:\users\twdsa\desktop\panepon\src\BaseScene.h(5): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  SysMgr.cpp
+c:\users\twdsa\desktop\panepon\src\SysMgr.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  TimeKeeper.cpp
+c:\users\twdsa\desktop\panepon\src\TimeKeeper.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory

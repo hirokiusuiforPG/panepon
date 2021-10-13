@@ -1,0 +1,10 @@
+
+
+BlockMgr
+
+1.	BlockMgr.Init
+2.	.update
+3.	.draw
+4.	.‚»‚Ì‘¼
+
+

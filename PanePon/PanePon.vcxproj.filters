@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\Move.cpp">
+      <Filter>ソースファイル\scene\game\Block\move</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Block.cpp">
+      <Filter>ソースファイル\scene\game\Block</Filter>
+    </ClCompile>
+    <ClCompile Include="src\BlockMgr.cpp">
+      <Filter>ソースファイル\scene\game\Block</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Cursor.cpp">
+      <Filter>ソースファイル\scene\game\cursor</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Combo.cpp">
+      <Filter>ソースファイル\scene\game\DelDec\combo</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Delete.cpp">
+      <Filter>ソースファイル\scene\game\DelDec\delete</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Search.cpp">
+      <Filter>ソースファイル\scene\game\DelDec\search</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TimeKeeper.cpp">
+      <Filter>ソースファイル\scene\game\timekeeper</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Game.cpp">
+      <Filter>ソースファイル\scene\game</Filter>
+    </ClCompile>
+    <ClCompile Include="src\board.cpp">
+      <Filter>ソースファイル\scene\game\board</Filter>
+    </ClCompile>
+    <ClCompile Include="extra\Choices.cpp">
+      <Filter>ヘッダーファイル\jeneral</Filter>
+    </ClCompile>
+    <ClCompile Include="extra\DisposableSound.cpp">
+      <Filter>ヘッダーファイル\jeneral</Filter>
+    </ClCompile>
+    <ClCompile Include="extra\DxGraphic.cpp">
+      <Filter>ヘッダーファイル\jeneral</Filter>
+    </ClCompile>
+    <ClCompile Include="extra\DxJoyPad.cpp">
+      <Filter>ヘッダーファイル\jeneral</Filter>
+    </ClCompile>
+    <ClCompile Include="extra\DxKeyBoard.cpp">
+      <Filter>ヘッダーファイル\jeneral</Filter>
+    </ClCompile>
+    <ClCompile Include="extra\DxSound.cpp">
+      <Filter>ヘッダーファイル\jeneral</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ISceneChanger.cpp">
+      <Filter>ソースファイル\interface</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>ソースファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="src\key.cpp">
+      <Filter>ソースファイル\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="src\SysMgr.cpp">
+      <Filter>ソースファイル\mgr\system</Filter>
+    </ClCompile>
+    <ClCompile Include="src\SceneMgr.cpp">
+      <Filter>ソースファイル\mgr\scene</Filter>
+    </ClCompile>
+    <ClCompile Include="src\BaseObject.cpp">
+      <Filter>ソースファイル\scene\game\BaseObject</Filter>
+    </ClCompile>
+    <ClCompile Include="src\BaseScene.cpp">
+      <Filter>ソースファイル\scene\base</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Config.cpp">
+      <Filter>ソースファイル\scene\config</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Genre.cpp">
+      <Filter>ソースファイル\scene\Genre</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Achievement.cpp">
+      <Filter>ソースファイル\scene\achievement</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Start.cpp">
+      <Filter>ソースファイル\scene\start</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rule.cpp">
+      <Filter>ソースファイル\scene\game\Rule</Filter>
+    </ClCompile>
+    <ClCompile Include="src\DeleteDecide.cpp">
+      <Filter>ソースファイル\scene\game\DelDec</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Controller.cpp">
+      <Filter>ソースファイル\scene\game</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Effect.cpp">
+      <Filter>ソースファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="extra\DxAnimation.cpp">
+      <Filter>ヘッダーファイル\jeneral</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="リソースファイル">
+      <UniqueIdentifier>{d26f4bff-0a6d-4581-a044-4dfea0cb48a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダーファイル">
+      <UniqueIdentifier>{937b165e-8167-47f9-989f-f6b09301cd17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル">
+      <UniqueIdentifier>{24c0f5ff-e510-4b52-bd78-2429892873e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダーファイル\jeneral">
+      <UniqueIdentifier>{7f8c5fa4-cec8-4f60-8887-eec47a5f8417}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\scene">
+      <UniqueIdentifier>{cfaab02c-6c55-4368-b95a-0166a8d16005}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\interface">
+      <UniqueIdentifier>{e097a962-1b1b-446f-ac9d-fb2cfea99c7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\mgr">
+      <UniqueIdentifier>{13a8d730-532c-4457-b200-3a8a3f0cf077}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\scene\game">
+      <UniqueIdentifier>{94da2e49-5e63-4680-8049-aa09f8787223}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\scene\game\board">
+      <UniqueIdentifier>{52072098-4de4-4635-ba94-33aa9bbec594}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\scene\game\Block">
+      <UniqueIdentifier>{310af6ce-013c-42a7-85f8-49d2e07b7dcf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\scene\game\Block\move">
+      <UniqueIdentifier>{bb396f74-c80f-4f47-ad27-ad1e1d6c9918}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\scene\game\timekeeper">
+      <UniqueIdentifier>{8d8dbc65-078d-4c4b-99c6-9335737c60d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\scene\game\cursor">
+      <UniqueIdentifier>{45a8152a-9c47-43b5-a29f-535a0659ae07}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\mgr\system">
+      <UniqueIdentifier>{057f22a1-5d8f-4f2e-9b29-e7f439f86cba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\mgr\scene">
+      <UniqueIdentifier>{bccd0061-fa76-429e-90c7-bd6a68d8af69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\scene\base">
+      <UniqueIdentifier>{64101c43-a443-45b0-8b14-8ef6390611c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\scene\start">
+      <UniqueIdentifier>{e04a05ad-603c-4b0a-86d2-9c948b6556b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\scene\achievement">
+      <UniqueIdentifier>{1bc80752-1a25-47e6-b33c-ed6e642c0730}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\UI">
+      <UniqueIdentifier>{4f7e822b-f20c-4a07-9e76-2ba1e14f07c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\scene\game\BaseObject">
+      <UniqueIdentifier>{742a171e-1612-43eb-8bd5-0d11d9efd5d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\scene\config">
+      <UniqueIdentifier>{04f30e96-3893-4575-baa6-721439a8732a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\scene\Genre">
+      <UniqueIdentifier>{01d3e4b7-e1e5-4171-ae97-025f63c6e184}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\scene\game\DelDec">
+      <UniqueIdentifier>{7a62261d-5b61-4cc3-8d99-cd9c8bd55483}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\scene\game\DelDec\search">
+      <UniqueIdentifier>{23ae315c-fca0-4b4a-ad0f-d493e35843f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\scene\game\DelDec\delete">
+      <UniqueIdentifier>{3f285e71-772f-40ac-b095-db1d4c44faf1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\scene\game\DelDec\combo">
+      <UniqueIdentifier>{1ee30a6d-5dd0-402f-b633-c84e8ddd232f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\scene\game\Rule">
+      <UniqueIdentifier>{27e1b998-13a6-4fd1-bce5-346596243320}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\Move.h">
+      <Filter>ソースファイル\scene\game\Block\move</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Block.h">
+      <Filter>ソースファイル\scene\game\Block</Filter>
+    </ClInclude>
+    <ClInclude Include="src\BlockMgr.h">
+      <Filter>ソースファイル\scene\game\Block</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Cursor.h">
+      <Filter>ソースファイル\scene\game\cursor</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Combo.h">
+      <Filter>ソースファイル\scene\game\DelDec\combo</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Delete.h">
+      <Filter>ソースファイル\scene\game\DelDec\delete</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Search.h">
+      <Filter>ソースファイル\scene\game\DelDec\search</Filter>
+    </ClInclude>
+    <ClInclude Include="src\TimeKeeper.h">
+      <Filter>ソースファイル\scene\game\timekeeper</Filter>
+    </ClInclude>
+    <ClInclude Include="src\board.h">
+      <Filter>ソースファイル\scene\game\board</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Game.h">
+      <Filter>ソースファイル\scene\game</Filter>
+    </ClInclude>
+    <ClInclude Include="extra\XandY.h">
+      <Filter>ヘッダーファイル\jeneral</Filter>
+    </ClInclude>
+    <ClInclude Include="extra\Choices.h">
+      <Filter>ヘッダーファイル\jeneral</Filter>
+    </ClInclude>
+    <ClInclude Include="extra\DisposableSound.h">
+      <Filter>ヘッダーファイル\jeneral</Filter>
+    </ClInclude>
+    <ClInclude Include="extra\DxControl.h">
+      <Filter>ヘッダーファイル\jeneral</Filter>
+    </ClInclude>
+    <ClInclude Include="extra\DxGraphic.h">
+      <Filter>ヘッダーファイル\jeneral</Filter>
+    </ClInclude>
+    <ClInclude Include="extra\DxJoyPad.h">
+      <Filter>ヘッダーファイル\jeneral</Filter>
+    </ClInclude>
+    <ClInclude Include="extra\DxKeyBoard.h">
+      <Filter>ヘッダーファイル\jeneral</Filter>
+    </ClInclude>
+    <ClInclude Include="extra\DxSound.h">
+      <Filter>ヘッダーファイル\jeneral</Filter>
+    </ClInclude>
+    <ClInclude Include="extra\GraphicData.h">
+      <Filter>ヘッダーファイル\jeneral</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ISceneChanger.h">
+      <Filter>ソースファイル\interface</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Task.h">
+      <Filter>ソースファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="src\key.h">
+      <Filter>ソースファイル\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="src\define.h">
+      <Filter>ヘッダーファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Singleton.h">
+      <Filter>ヘッダーファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="src\SysMgr.h">
+      <Filter>ソースファイル\mgr\system</Filter>
+    </ClInclude>
+    <ClInclude Include="src\SceneMgr.h">
+      <Filter>ソースファイル\mgr\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="src\BaseObject.h">
+      <Filter>ソースファイル\scene\game\BaseObject</Filter>
+    </ClInclude>
+    <ClInclude Include="src\BaseScene.h">
+      <Filter>ソースファイル\scene\base</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Config.h">
+      <Filter>ソースファイル\scene\config</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Genre.h">
+      <Filter>ソースファイル\scene\Genre</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Achievement.h">
+      <Filter>ソースファイル\scene\achievement</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Start.h">
+      <Filter>ソースファイル\scene\start</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rule.h">
+      <Filter>ソースファイル\scene\game\Rule</Filter>
+    </ClInclude>
+    <ClInclude Include="src\DeleteDecide.h">
+      <Filter>ソースファイル\scene\game\DelDec</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Controller.h">
+      <Filter>ソースファイル\scene\game</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Effect.h">
+      <Filter>ソースファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="extra\DxAnimation.h">
+      <Filter>ヘッダーファイル\jeneral</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
